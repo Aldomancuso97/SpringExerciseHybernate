@@ -12,7 +12,7 @@ public class Class {
 
     @Id
     @GeneratedValue
-    @Column(name = "id_class")
+    @Column
     private long Id;
 
 
